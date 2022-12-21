@@ -1,0 +1,97 @@
+
+
+.img {
+    margin: 80px;
+    margin-left: 300px;
+
+}
+
+.right-side{
+    border: 1px solid white;
+    width: 500px;
+    height: 800px;
+    margin-top: 80px;
+
+}
+
+.body{
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    margin-top: 100px;
+}
+.email {
+    border: 1px solid white;
+    width: 80%;
+    margin: 50px;
+    margin-bottom: 10px;
+    height: 50px;
+    margin-top: 15%;
+}
+#email{
+    margin-left: 10px;
+    opacity: 50%;
+}
+.password {
+    border: 1px solid white;
+    width: 80%;
+    margin: 50px;
+    height: 50px;
+    margin-top: 20px;
+}
+#password{
+    margin-left: 10px;
+    opacity: 50%;
+}
+.login{
+    border: 1px solid darkgray;
+    width: 300px;
+    height: 40px;
+    margin-left: 100px;
+    border-radius: 5px;
+    background-color: darkgray;
+}
+#login{
+    text-align: center;
+    margin-top: 12px;
+}
+
+.google{
+    border: 1px solid white;
+    width: 300px;
+    height: 30px;
+    margin-left: 100px;
+    margin-top: 30px;
+    text-align: center;
+}
+#google{
+    margin-top: 30px;
+    opacity: 50%;
+}
+hr{
+    opacity: 50%;
+}
+.logo{
+    border: 3px solid deepskyblue;
+    width: 380px;
+    height: 45px;
+    margin-left: 60px;
+    margin-top: 80px;
+    display: flex;
+}
+#logogoogle{
+    margin: 10px;
+    margin-top: 8px;
+    margin-left: 100px;
+    color: deepskyblue;
+}
+
+#gg{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+

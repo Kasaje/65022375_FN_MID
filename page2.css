@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: darkviolet;
+    height: 60px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    display: flex;
+    padding: 15px;
+}
+
+.header{
+    display: flex;
+    background-color: darkviolet;
+}
+
+a{
+    margin-left: 15px;
+    color: white;
+    font-size: 30px;
+}
+
+.link{
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+.main{
+    border: 1px solid darkgray;
+    width: 70%;
+    height: 400px;
+    margin: 5%;
+    margin-left: 280px;
+    border-radius: 15px;
+    background-color: darkgray;
+    display: flex;
+}
+.img{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin: 40px;
+
+}
+h1{
+    margin-left: 70px;
+}
+
+.right-side{
+    border: 1px solid darkgrey;
+    width: 100%;
+}
+
+.status{
+    border: 1px solid white;
+    width: 250px;
+    height: 40px;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    background-color: white;
+    display: flex;
+    
+}
+#A{
+    font-size: 20px;
+    margin: 5px;
+    margin-left: 10px;
+}
+#B{
+    font-size: 20px;
+    margin: 5px;
+    margin-left: 10px;
+    color:lawngreen;
+}
+.name{
+    border: 1px solid darkgray;
+    width: 80%;
+    margin-left: 10%;
+    margin-top:20px;
+    height: 300px;
+    margin-bottom: 10px;
+}
+
+p{
+    margin: 30px;
+    font-size: 20px;
+}
+.text{
+    margin: 300px ;
+    margin-top: 50px;
+    margin-left: 500px;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.back{
+    border: 1px solid white;
+    width: 80%;
+    height: 100px;
+    margin-left: 200px;
+    display: flex;
+}
+.blockl{
+    border: 1px solid bisque;
+    width: 200px;
+    height: 70px;
+    margin: 15px;
+    margin-left: 400px;
+    background-color: bisque;
+    border-radius: 10px;
+}
+.blockr{
+    border: 1px solid bisque;
+    width: 200px;
+    height: 70px;
+    margin: 15px;
+    margin-left: 300px;
+    background-color: bisque;
+    border-radius: 10px;
+}
+#bl{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+#br{
+    margin-top: 15px;
+    margin-left: 45px;
+}
